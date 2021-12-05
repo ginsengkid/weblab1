@@ -1,0 +1,178 @@
+body{
+    min-width: 780px;
+    margin: 0 auto;
+    position: relative;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    margin-block-start: 0;
+    margin-block-end: 0 ;
+    vertical-align: center;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 30px;
+    padding: 45px 0;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+}
+
+h2 {
+    margin-block-start: 0;
+    margin-block-end: 0 ;
+    vertical-align: center;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+h3 {
+    margin-block-start: 0;
+    margin-block-end: 0 ;
+    vertical-align: center;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 24px;
+}
+
+p{
+    margin-block-start: 0;
+    margin-block-end: 0 ;
+    vertical-align: center;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: left;
+}
+
+.standard{
+    margin:0 auto;
+    text-align: center;
+    width: 780px;
+    position: relative;
+    padding-bottom: 45px;
+}
+
+.title{
+    margin:0 auto;
+    text-align: center;
+    width: 780px;
+    position: relative;
+}
+
+.firstpic{
+    content:url(img/firstpurpleimage.webp);
+    width: 780px;
+    position: relative;
+    margin: 0 auto 45px;
+}
+
+.secondpic{
+    float: right;
+    content:url(img/bloodsysfractal.webp);
+    width: 200px;
+    height: 300px;
+}
+
+.thirdpic{
+    float: left;
+    content:url(img/fractalshore.webp);
+    width: 230px;
+    height: 317px;
+    margin-right: 60px;
+}
+
+.fourthpic{
+    float: right;
+    content:url(img/heometricalFractalTriangle.webp);
+    width: 210px;
+    height: 190px;
+    margin-bottom: 55px;
+    margin-left: 55px;
+    margin-top: 40px;
+}
+
+.fitfhpic{
+    content:url(img/RoundFractalSnowflakeBuild.webp);
+    width: 780px;
+    height: 390px;
+    margin-bottom: 15px;
+}
+
+.sixthpic{
+    float: right;
+    content:url(img/FirstAlgebraicFractal.webp);
+    width: 250px;
+    height: 170px;
+    margin-bottom: 10px;
+    margin-left: 45px;
+}
+
+.seventhpic{
+    float: right;
+    content:url(img/SecondAlgebraicFractal.webp);
+    width: 250px;
+    height: 185px;
+    margin-bottom: 5px;
+    margin-left: 45px;
+
+}
+
+.eighthpic{
+    float: left;
+    content:url(img/SnowflakeFractal.webp);
+    width: 300px;
+    height: 345px;
+    margin-right: 45px;
+}
+
+.ninthpic{
+    float: right;
+    content:url(img/FractalLeave.webp);
+    width: 245px;
+    height: 245px;
+    margin-top: 15px;
+    margin-left: 45px;
+}
+
+.tenthpic{
+    float: right;
+    content:url(img/FractalAntenna.webp);
+    width: 250px;
+    height: 190px;
+    margin-top: 15px;
+    margin-left: 45px;
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+li:last-child{
+    margin-bottom: 0;
+}
+
+ul{
+    margin-bottom: 0;
+}
+
+.h2header{
+    padding-bottom: 20px;
+    padding-top: 25px;
+}
+
+.h3header{
+    padding-bottom: 10px;
+}
+
+.last{
+    margin-top: 10px;
+    border-left: 2px solid #000;
+    padding: 10px;
+}
